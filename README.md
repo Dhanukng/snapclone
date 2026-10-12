@@ -60,4 +60,4 @@ npm run lint --workspace frontend
 
 - MongoDB must be running locally or use a cloud MongoDB URI.
 - Cloudinary variables are included for future media integration.
-- This project is intentionally structured to support later phases: stories, friend requests, real-time chat, media generating, and Snap delivery.
+- This project is intentionally structured to support later phases: stories, friend requests, real-time chat, media generation, and Snap delivery.
